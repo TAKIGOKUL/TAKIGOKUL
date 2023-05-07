@@ -1,5 +1,8 @@
+<img src="https://media.tenor.com/K4Rn4eOUV-YAAAAC/bats-batman.gif" width="1500" height="350" alt="Bats Batman GIF - Bats Batman Cave GIFs" style="max-width: 682px;">
+
 <h1 align="center">Hello there! it's GOKUL GK</h1>
 <h3 align="center">A COMPUTER SCIENCE STUDENT WHO IS EXPLORING NEW THINGS!</h3>
+<img src="https://media.tenor.com/EalRM1BllpoAAAAC/the-batman-pattinson2021.gif" width="600.9999999999999" height="400.9477911646586" alt="The Batman Pattinson2021 GIF - The Batman Pattinson2021 GIFs" style="max-width: 832px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=takigokul&label=Profile%20views&color=0e75b6&style=flat" alt="takigokul" /> </p>
 
