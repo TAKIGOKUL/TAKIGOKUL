@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Studying [COLLEGE OF ENGINEERING , ADOOR](https://cea.ac.in/)
 
-- 🌱 I’m currently learning **C , WEB DEVELOPMENT**
+- 🌱 I’m currently learning **C ,C++, Java , WEB DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **ANYTHING THAT WORTH DOING!**
 
