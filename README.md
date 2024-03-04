@@ -63,7 +63,7 @@ My name is Gokul G K and I'm a Computer Science UnderGraduate from Kerala , Indi
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/TAKIGOKUL/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/TAKIGOKUL/count.svg?"  /><br>
    <img src="https://komarev.com/ghpvc/?username=takigokul&label=Profile%20views&color=0e75b6&style=flat" alt="takigokul"   />
 </div>
 
