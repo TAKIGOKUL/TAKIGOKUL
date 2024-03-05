@@ -16,6 +16,13 @@ My name is Gokul G K and I'm a Computer Science UnderGraduate from Kerala , Indi
 ###
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  width="1000"  /><br>
+</div>
+
+###
+
+<div align="center"
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
