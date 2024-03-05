@@ -78,7 +78,7 @@ My name is Gokul G K and I'm a Computer Science UnderGraduate from Kerala , Indi
 ###
 
 <div align="center">
-  <img height="200" src=""  />
+  <a href="https://takigokul.netlify.app/" target="_blank">  <img height="200" src="https://prompti.ai/wp-content/uploads/2023/07/pcboi2.png"  />  </a>
 </div>
 
 ###
