@@ -5,7 +5,7 @@ My name is Gokul G K and I'm a Computer Science UnderGraduate from Kerala , Indi
 
 ###
 
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="1000" height="500" />
   
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TAKIGOKUL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
